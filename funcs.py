@@ -2,4 +2,4 @@
 
 def add(x, b):
 
-    return a + b
+    return x + b
